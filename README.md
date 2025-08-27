@@ -87,6 +87,6 @@ Hosting Server and the contents of Application
 
 ![](<https://github.com/prathikmr7/aws_projects/blob/ec2/Screenshot%20(1779).png?raw=true>)
 
-## Similarly we can launch Nginx Webserver
+## Similarly we can launch Nginx Webserve
 
 ![](<https://github.com/prathikmr7/aws_projects/blob/ec2/Screenshot%20(1781).png?raw=true>)
